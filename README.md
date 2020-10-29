@@ -11,7 +11,7 @@
   * Documentação para mostrar as imagens na pagina: ​https://developer.marvel.com/documentation/images​
   
 # Musicas
-  * Inicío da pagina: *Avengers Theme*
+  * Início da pagina: *Avengers Theme*
   * Equilibrio do Universo: *Frédéric Chopin's - Funeral March*
   
   
